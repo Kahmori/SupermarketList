@@ -20,7 +20,7 @@ Ao executar a aplicação, você será apresentado a um menu de opções para ge
 ### Exemplo de Uso
 1. **Adicionar um Novo Item à Lista:**
    - Selecione a opção `1` do menu principal.
-   - Insira o nome e a quantidade do item quando solicitado.
+   - Insira o nome do item a ser adicionado em sua lista.
 
 2. **Mostrar a Lista de Compras:**
    - Selecione a opção `2` para ver todos os itens da sua lista de compras.
@@ -34,3 +34,6 @@ Ao executar a aplicação, você será apresentado a um menu de opções para ge
 
 ## Observação
 Atualmente, a aplicação não possui interface gráfica. A execução é feita através do terminal.
+
+## Contato
+Para qualquer dúvida ou feedback, entre em contato através do e-mail [karineamorim30@gmail.com](mailto:karineamorim30@gmail.com).
